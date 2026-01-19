@@ -1,0 +1,7 @@
+project_id = "wlxmnssxjalbpmwsbsnz"
+
+[functions.transcribe-video]
+verify_jwt = false
+
+[functions.visual-transcribe]
+verify_jwt = false
